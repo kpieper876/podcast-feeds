@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
+     xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My News Summaries</title>
+    <link>https://example.com/podcast</link>
+    <language>en-us</language>
+    <description>This is a sample podcast feed for demonstration purposes.</description>
+    <itunes:author>Jane Doe</itunes:author>
+    <itunes:summary>This podcast covers various topics in technology and innovation.</itunes:summary>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:image href="https://example.com/podcast-cover.jpg" />
+    <itunes:category text="Technology">
+      <itunes:category text="Software" />
+    </itunes:category>
+    <atom:link href="https://example.com/podcast/rss.xml" rel="self" type="application/rss+xml" />
+
+
+
+
+<item>
+  <title>How Tech Is Reshaping Wall Street Careers</title>
+  <description>Explore how tech leaders are revolutionizing finance careers.</description>
+  <pubDate>Tue, 29 Apr 2025 13:20:28 -06:00</pubDate>
+  <enclosure url="https://drive.google.com/uc?id=1jogK-tXOO8ZNG32r9D5CA8RosU0S5Lfn" length="1234567" type="audio/mpeg"/>
+  <guid>https://drive.google.com/uc?id=1jogK-tXOO8ZNG32r9D5CA8RosU0S5Lfn</guid>
+  <itunes:duration>00:07:45</itunes:duration>
+  <itunes:explicit>no</itunes:explicit>
+</item>
+</channel>
+</rss>
+
+
