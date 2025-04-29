@@ -1,35 +1,33 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0"
-     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
-     xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
-     xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>My News Summaries</title>
-    <link>https://example.com/podcast</link>
-    <language>en-us</language>
-    <description>This is a sample podcast feed for demonstration purposes.</description>
-    <itunes:author>Jane Doe</itunes:author>
-    <itunes:summary>This podcast covers various topics in technology and innovation.</itunes:summary>
-    <itunes:explicit>no</itunes:explicit>
-    <itunes:image href="https://example.com/podcast-cover.jpg" />
-    <itunes:category text="Technology">
-      <itunes:category text="Software" />
-    </itunes:category>
-    <atom:link href="https://example.com/podcast/rss.xml" rel="self" type="application/rss+xml" />
-
-
-
-
-<item>
-  <title>How Tech Is Reshaping Wall Street Careers</title>
-  <description>Explore how tech leaders are revolutionizing finance careers.</description>
-  <pubDate>Tue, 29 Apr 2025 13:20:28 -06:00</pubDate>
-  <enclosure url="https://drive.google.com/uc?id=1jogK-tXOO8ZNG32r9D5CA8RosU0S5Lfn" length="1234567" type="audio/mpeg"/>
-  <guid>https://drive.google.com/uc?id=1jogK-tXOO8ZNG32r9D5CA8RosU0S5Lfn</guid>
-  <itunes:duration>00:07:45</itunes:duration>
-  <itunes:explicit>no</itunes:explicit>
-</item>
-</channel>
-</rss>
-
-
+PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4NCjxyc3Mg
+dmVyc2lvbj0iMi4wIg0KICAgICB4bWxuczppdHVuZXM9Imh0dHA6Ly93d3cu
+aXR1bmVzLmNvbS9kdGRzL3BvZGNhc3QtMS4wLmR0ZCINCiAgICAgeG1sbnM6
+Z29vZ2xlcGxheT0iaHR0cDovL3d3dy5nb29nbGUuY29tL3NjaGVtYXMvcGxh
+eS1wb2RjYXN0cy8xLjAiDQogICAgIHhtbG5zOmF0b209Imh0dHA6Ly93d3cu
+dzMub3JnLzIwMDUvQXRvbSI+DQogIDxjaGFubmVsPg0KICAgIDx0aXRsZT5N
+eSBOZXdzIFN1bW1hcmllczwvdGl0bGU+DQogICAgPGxpbms+aHR0cHM6Ly9l
+eGFtcGxlLmNvbS9wb2RjYXN0PC9saW5rPg0KICAgIDxsYW5ndWFnZT5lbi11
+czwvbGFuZ3VhZ2U+DQogICAgPGRlc2NyaXB0aW9uPlRoaXMgaXMgYSBzYW1w
+bGUgcG9kY2FzdCBmZWVkIGZvciBkZW1vbnN0cmF0aW9uIHB1cnBvc2VzLjwv
+ZGVzY3JpcHRpb24+DQogICAgPGl0dW5lczphdXRob3I+SmFuZSBEb2U8L2l0
+dW5lczphdXRob3I+DQogICAgPGl0dW5lczpzdW1tYXJ5PlRoaXMgcG9kY2Fz
+dCBjb3ZlcnMgdmFyaW91cyB0b3BpY3MgaW4gdGVjaG5vbG9neSBhbmQgaW5u
+b3ZhdGlvbi48L2l0dW5lczpzdW1tYXJ5Pg0KICAgIDxpdHVuZXM6ZXhwbGlj
+aXQ+bm88L2l0dW5lczpleHBsaWNpdD4NCiAgICA8aXR1bmVzOmltYWdlIGhy
+ZWY9Imh0dHBzOi8vZXhhbXBsZS5jb20vcG9kY2FzdC1jb3Zlci5qcGciIC8+
+DQogICAgPGl0dW5lczpjYXRlZ29yeSB0ZXh0PSJUZWNobm9sb2d5Ij4NCiAg
+ICAgIDxpdHVuZXM6Y2F0ZWdvcnkgdGV4dD0iU29mdHdhcmUiIC8+DQogICAg
+PC9pdHVuZXM6Y2F0ZWdvcnk+DQogICAgPGF0b206bGluayBocmVmPSJodHRw
+czovL2V4YW1wbGUuY29tL3BvZGNhc3QvcnNzLnhtbCIgcmVsPSJzZWxmIiB0
+eXBlPSJhcHBsaWNhdGlvbi9yc3MreG1sIiAvPg0KDQoNCg0KDQo8aXRlbT4N
+CiAgPHRpdGxlPkhvdyBUZWNoIElzIFJlc2hhcGluZyBXYWxsIFN0cmVldCBD
+YXJlZXJzPC90aXRsZT4NCiAgPGRlc2NyaXB0aW9uPkV4cGxvcmUgaG93IHRl
+Y2ggbGVhZGVycyBhcmUgcmV2b2x1dGlvbml6aW5nIGZpbmFuY2UgY2FyZWVy
+cy48L2Rlc2NyaXB0aW9uPg0KICA8cHViRGF0ZT5UdWUsIDI5IEFwciAyMDI1
+IDEzOjIwOjI4IC0wNjowMDwvcHViRGF0ZT4NCiAgPGVuY2xvc3VyZSB1cmw9
+Imh0dHBzOi8vZHJpdmUuZ29vZ2xlLmNvbS91Yz9pZD0xam9nSy10WE9POFpO
+RzMycjlENUNBOFJvc1UwUzVMZm4iIGxlbmd0aD0iMTIzNDU2NyIgdHlwZT0i
+YXVkaW8vbXBlZyIvPg0KICA8Z3VpZD5odHRwczovL2RyaXZlLmdvb2dsZS5j
+b20vdWM/aWQ9MWpvZ0stdFhPTzhaTkczMnI5RDVDQThSb3NVMFM1TGZuPC9n
+dWlkPg0KICA8aXR1bmVzOmR1cmF0aW9uPjAwOjA3OjQ1PC9pdHVuZXM6ZHVy
+YXRpb24+DQogIDxpdHVuZXM6ZXhwbGljaXQ+bm88L2l0dW5lczpleHBsaWNp
+dD4NCjwvaXRlbT4NCjwvY2hhbm5lbD4NCjwvcnNzPg0KDQoNCg==
